@@ -1,2 +1,2 @@
 # War-Card-game
-Interactive War card game using Python
+Interactive Tictactoe game using Python
